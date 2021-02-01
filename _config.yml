@@ -1,0 +1,9 @@
+title: Caleb Aguiar # your name (or website title) here
+logo: "/images/Pripic.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  I love dark coffee, learning about cryptocurrency, the cosmos, and of course all things data science! 
+  <br><br>
+  <a href="https://www.linkedin.com/in/caleb-aguiar/">View My LinkedIn Profile</a>
+  
+theme: jekyll-theme-midnight
+google_analytics: G-VF6EBEF70DS # your Google Analytics tracking ID here
